@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ebrahim Anaam
 
 🎓 I'm a Computer Science student passionate about building beautiful and responsive web interfaces.  
 💻 Currently focusing on Front-End Development using HTML, CSS, JavaScript, and frameworks like React.  
